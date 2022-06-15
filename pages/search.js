@@ -46,7 +46,7 @@ const Search = ({ properties }) => {
           marginTop="5"
           marginBottom="5"
         >
-          <Image src={noresult} />
+          <Image src={noresult} alt="No Image" />
           <Text fontSize="2xl" marginTop="3">
             No Result Found.
           </Text>
